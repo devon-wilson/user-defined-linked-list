@@ -1,0 +1,33 @@
+Script started on Thu 09 Nov 2017 06:50:32 PM PST
+devon.wilson1@syccuxas01:~/cs162/Lab6> exitrm a.outls[K./a.outg++ main.cpp
+devon.wilson1@syccuxas01:~/cs162/Lab6> g++ main.cpp[8Pexitrm a.outls[K./a.out
+Enter data 
+Devon
+Enter data 
+Wilson's
+Enter data 
+Lab6
+Enter data 
+submio ssion
+Enter data 
+quit
+ 
+Devon
+ 
+Wilson's
+ 
+Lab6
+ 
+submission
+ 
+quit
+devon.wilson1@syccuxas01:~/cs162/Lab6> ls
+[0m[00;32ma.out[0m  [00mmain.cpp[0m  [00mtextfile[0m
+devon.wilson1@syccuxas01:~/cs162/Lab6> rm a.out
+devon.wilson1@syccuxas01:~/cs162/Lab6> r[Kls -a
+[0m[01;34m.[0m  [01;34m..[0m  [00mmain.cpp[0m  [00mtextfile[0m
+devon.wilson1@syccuxas01:~/cs162/Lab6> cd ..
+devon.wilson1@syccuxas01:~/cs162> exit
+exit
+
+Script done on Thu 09 Nov 2017 06:51:03 PM PST
